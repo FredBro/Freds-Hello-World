@@ -1,3 +1,3 @@
 # Fred-s-Hello-World
 My First Repository
-Let's make someedits
+Let's make some edits
